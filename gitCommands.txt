@@ -1,0 +1,9 @@
+git status
+git commit -m "Second commit"
+git log
+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
+
+git push
+git add .
+git commit -m "Second commit"
+git push
